@@ -1,0 +1,9 @@
+git init            # initialize repo
+git clone <url>     # copy remote repo
+git status          # check changes 
+git add <filename>  # stage file
+git add .           # stage all
+git commit -m "msg" # commit changes
+git log             # full history
+git log --oneline   # short view in one line
+git diff            # show changes
