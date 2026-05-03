@@ -1,1 +1,20 @@
-hii
+## for jr.eng create new branch on git 
+git clone repo
+cd project
+
+## sync branch 
+git checkout main
+git pull origin main
+
+## create a branch localy 
+git checkout -b feature/user-auth
+
+## push branch to remote
+git push -u origin feature/user-auth    ## -u upstream tracking, so future push are simple
+
+## create file and folder
+
+## push to main and remote
+git add .
+git commit -m ""
+git push 
