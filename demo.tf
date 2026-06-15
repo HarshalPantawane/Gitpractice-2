@@ -3,7 +3,11 @@ resource "aws_vpc" "paya" {
 
   tags ={
     Name = project   
+
   }
 
+}
+resource "aws_instance" "name" {
+  
 }
 
