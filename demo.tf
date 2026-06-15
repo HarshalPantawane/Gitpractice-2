@@ -3,13 +3,8 @@ resource "aws_vpc" "paya" {
 
   tags ={
     Name = project   
-
   }
 raja
-
-
-  }
-  garsgal
 
 
 
