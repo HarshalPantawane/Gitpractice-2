@@ -7,7 +7,5 @@ resource "aws_vpc" "paya" {
   }
 
 }
-resource "aws_instance" "name" {
-  
-}
+
 
