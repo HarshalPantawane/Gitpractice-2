@@ -7,6 +7,7 @@ resource "aws_vpc" "paya" {
 raja
 
 
+
 resource "aws_subnet" "name" {
   
 }
