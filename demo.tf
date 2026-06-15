@@ -1,7 +1,9 @@
 resource "aws_vpc" "paya" {
   vpc_name = "project_vpc"
-  tags = {
-    Name = "porject vpc"
+
+  tags ={
+    Name = project   
   }
 
 }
+
