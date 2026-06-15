@@ -6,4 +6,6 @@ resource "aws_vpc" "paya" {
   }
 
 }
-
+resource "aws_subnet" "name" {
+  
+}
