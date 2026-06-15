@@ -5,7 +5,7 @@ resource "aws_vpc" "paya" {
     Name = project   
 
   }
-
+  garsgal
 }
 
 
