@@ -5,7 +5,8 @@ resource "aws_vpc" "paya" {
     Name = project   
   }
 raja
-}
+
+
 resource "aws_subnet" "name" {
   
 }
