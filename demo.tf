@@ -4,7 +4,7 @@ resource "aws_vpc" "paya" {
   tags ={
     Name = project   
   }
-
+raja
 }
 resource "aws_subnet" "name" {
   
