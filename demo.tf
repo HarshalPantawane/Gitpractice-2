@@ -8,4 +8,6 @@ resource "aws_vpc" "paya" {
   garsgal
 }
 
-
+resource "aws_subnet" "name" {
+  
+}
